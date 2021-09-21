@@ -1,3 +1,3 @@
 Hello World,
 
-This is Siu, She really likes sushi
+This is Siu, she really likes sushi
